@@ -1,4 +1,4 @@
-#big_box {
+#bigbox {
   margin-top: 20px;
   margin-left: 200px;
   margin-right: 200px
@@ -8,7 +8,4 @@
   border-radius: 15px
   
   text-align: left;
-}
-#section_head{
-    text-align: center;
 }
