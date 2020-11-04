@@ -27,13 +27,13 @@ h1{
 }
 
 .blurbBubble {
-   background-color: lightgray;
+   background-color: gainsboro;
    /* color: white;  */
    /* width: 70%; */
    text-align: center;
    font-size: 1.7em;
    border: 3px solid black;
-   border-radius: 3%;
+   border-radius: 5%;
    padding: 10px;
    margin-bottom: 30px;
    box-shadow: 10px 10px 3px grey;
@@ -46,3 +46,22 @@ h2 {
 /* .whiteURL {
     color: white;
 } */
+
+.contact {
+    font-size: 1.3em;
+}
+
+.blurbBubble2 {
+    background-color: gainsboro;
+    /* color: white;  */
+    width: 45%;
+    text-align: center;
+    font-size: 1.7em;
+    border: 3px solid black;
+    border-radius: 5%;
+    padding: 10px;
+    margin: 12px;
+    margin-bottom: 30px;
+    box-shadow: 10px 10px 3px grey;
+    float: left;
+ }
